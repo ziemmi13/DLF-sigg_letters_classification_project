@@ -4,3 +4,8 @@ utils2.py
 /newest_dataset
 /wetransfer
 /__pycache__
+/dataset
+/models
+/.ipynb_checkpoints
+/asl_test_dataset
+/new_dataset
